@@ -2,6 +2,7 @@
 
 **Author:** Vansh Gupta
 **GitHub:** [https://github.com/Vansh-7/sign\_language\_recognition](https://github.com/Vansh-7/sign_language_recognition)
+
 **Dataset:** [ASL Alphabet Dataset on Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 ---
