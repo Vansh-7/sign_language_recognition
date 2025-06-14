@@ -74,7 +74,7 @@ This project uses the ASL Alphabet Dataset by Grassknoted available on Kaggle:
 
 ## Results
 
-* Achieved 94% classification accuracy on unseen test data
+* Achieved 97% classification accuracy on unseen test data
 * Real-time performance at 28-30 FPS on consumer-grade laptops
 * Robust performance in well-lit, uncluttered environments
 
